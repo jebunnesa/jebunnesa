@@ -15,8 +15,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="80" height="40"/> </a>
 <a href="https://www.docker.com/"> <img src="icons8-docker.svg"  alt="docker" width="50" height="50" /> </a>
 <a href="https://aws.amazon.com/"> <img src="icons8-amazon-web-services.svg" alt="aws" width="80" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebunnesa&layout=compact&theme=vision-friendly-dark)]()
